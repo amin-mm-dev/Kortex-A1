@@ -1,8 +1,8 @@
 # kortexA1_codeFiles
+<img align="left" width="160" height="110" src="https://i.imgur.com/LRG8dA1.jpg">
 A simple guide for you to learn hard things the easy way!
 
 # Kortex A1 All-in-one development board
-<img align="left" width="160" height="110" src="https://i.imgur.com/LRG8dA1.jpg">
 Kortex A1 is a WiFi enabled multi-sensor development board for environment monitoring and wireless control. It's like an Arduino UNO but with lots of available components such as environmetal sensors and an ESP8266 that make this board universal for almost any project idea.
 <p align="center">
   <img width="460" height="300" src="https://cdn.tindiemedia.com/images/resize/itDjxbigkN4QkDhZrZ5ShPI5YtE=/p/fit-in/653x435/filters:fill(fff)/i/561311/products/2018-06-07T19%3A16%3A56.940Z-IMG_20180105_192122.jpg">
