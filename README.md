@@ -1,5 +1,5 @@
-# kortexA1_codeFiles
 <img align="left" width="160" height="110" src="https://i.imgur.com/LRG8dA1.jpg">
+# kortexA1_codeFiles
 A simple guide for you to learn hard things the easy way!
 
 # Kortex A1 All-in-one development board
