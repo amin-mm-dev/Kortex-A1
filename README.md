@@ -1,5 +1,5 @@
 # kortexA1_codeFiles
-<img align="left" width="250" height="100" src="https://i.imgur.com/LRG8dA1.jpg">
+<img align="left" width="150" height="100" src="https://i.imgur.com/LRG8dA1.jpg">
 A simple guide for you to learn hard things the easy way!
 
 # Kortex A1 All-in-one development board
@@ -25,8 +25,8 @@ In these steps I'll be showing you how to take maximum advantage of Kortex A1 an
    Genuino UNO, so the IDE will recognise your Kortex A1)
 
 
-<img align="left" width="250" height="100" src="https://cdn6.aptoide.com/imgs/8/9/a/89a2feafbafc451bd21b1e8f9b0d9c1c_icon.png?w=256">
 ## Running Blynk
+<img align="left" width="100" height="100" src="https://cdn6.aptoide.com/imgs/8/9/a/89a2feafbafc451bd21b1e8f9b0d9c1c_icon.png?w=256">
 For running Blynk with your Kortex A1 there are two code scripts, the one called "KORTEXA1_BLYNK_BLANK" comes with no dashboard configured onto it, and "KORTEXA1_BLYNK_DASHB1" comes with a dashboard made from a set of widgets (1 chart, 4 data panels and 1 button). 
 If you want to create your own dashboard you can use and modify "KORTEXA1_BLYNK_BLANK" code so it can be interfaced through your Blynk dashbaord, here there's some ([documentation](http://docs.blynk.cc/)) on how to do it.
 
