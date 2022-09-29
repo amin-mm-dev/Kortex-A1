@@ -1,7 +1,4 @@
 
-# kortexA1_codeFiles
-A simple guide for using Kortex A1 Dec board
-
 # Kortex A1 All-in-one development board
 Kortex A1 is a WiFi enabled multi-sensor development board for environment monitoring and wireless control. It integrates temperature, humidity and pressure sensors connected using I2C protocol.
 <p align="center">
