@@ -4,14 +4,13 @@
 A simple guide for using Kortex A1 Dec board
 
 # Kortex A1 All-in-one development board
-Kortex A1 is a WiFi enabled multi-sensor development board for environment monitoring and wireless control. It's like an Arduino UNO but with lots of available components such as environmetal sensors and an ESP8266 that make this board universal for almost any project idea.
+Kortex A1 is a WiFi enabled multi-sensor development board for environment monitoring and wireless control. It integrates temperature, humidity and pressure sensors connected using I2C protocol.
 <p align="center">
   <img width="460" height="300" src="https://cdn.tindiemedia.com/images/resize/itDjxbigkN4QkDhZrZ5ShPI5YtE=/p/fit-in/653x435/filters:fill(fff)/i/561311/products/2018-06-07T19%3A16%3A56.940Z-IMG_20180105_192122.jpg">
 </p>
 
 ## Getting Started
 
-Imagine having your own monitoring system capable of recording environment status, visualizing data on your computer or turning things on and off wherever you are on the planet, sounds cool right?
 In these steps I'll be showing you how to take maximum advantage of Kortex A1 and its capabilities, so you can build almost any project without having to learn all electronics basics, just upload the code and enjoy!
 
 ### Prerequisites
@@ -56,7 +55,7 @@ Start by adding a chart with 4 sources of data (temperature/humidity/pressure/al
    Blynk.begin(auth, wifi, "AP_SSID", "AP_PASS"); // Initilize Blynk
  ```
 
-**8-** Finally upload the code to your Kortex A1 board and open serial monitor at 9600 baud. You'll see that the noard will connect to your access point and it will 
+**8-** Finally upload the code to your Kortex A1 board and open serial monitor at 9600 baud. You'll see that the board will connect to your access point and it will 
    automatically start pushing data to Blynk server. Now open your Blynk app and enjoy your wireless monitoring! (make sure that D13 led works when you toggle your pushbutton! ;)
 
 [Here's a demo video of how it should work](https://www.youtube.com/watch?v=qijERRKEPd8)
